@@ -159,10 +159,12 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-anpr_test/
-sample.mp4
-sort/
-test_interpolated.csv
+
+
+# Project outputs
 test.csv
+test_interpolated.csv
 out.mp4
-yolov8n.pt
+
+# Models
+*.pt
