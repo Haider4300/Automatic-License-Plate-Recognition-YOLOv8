@@ -112,7 +112,7 @@ cd Automatic-License-Plate-Recognition-YOLOv8
 
 ---
 
-### 2. Create Virtual Environment
+### 2. Create a Virtual Environment
 
 ```
 python -m venv env
@@ -194,7 +194,7 @@ The generated video (`out.mp4`) contains:
 * Detected license plates
 * Vehicle tracking across frames
 
-To open the output video in Windows terminal:
+To open the output video in Windows Terminal:
 
 ```
 start out.mp4
